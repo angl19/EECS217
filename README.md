@@ -1,4 +1,4 @@
-# EECS217 - VLSI Design Project Report - image
+# EECS217 - VLSI Design Project Report
 
 ## Project Requirement
 ![Requirement](images/image23.png)
